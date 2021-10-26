@@ -6,7 +6,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Murach's Java Servlets and JSP</title>
+    <title>Chap 12 ex1 SQL GATE</title>
     <link rel="stylesheet" href="/ch12_ex1_sqlGate/styles/main.css" type="text/css"/>
 </head>
 <body>

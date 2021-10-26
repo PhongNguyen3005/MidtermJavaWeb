@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Murach's Java Servlets and JSP</title>
+    <title>Chap07 Ex3 Cart</title>
     <link rel="stylesheet" href="/ch07_ex3_cart/styles/main.css" type="text/css"/>
 </head>
 <body>

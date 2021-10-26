@@ -6,7 +6,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Murach's Java Servlets and JSP</title>
+    <title>Chap 12 Ex2 Admin</title>
     <link rel="stylesheet" href="/ch12_ex2_admin/styles/main.css" type="text/css"/>
 </head>
 <body>
