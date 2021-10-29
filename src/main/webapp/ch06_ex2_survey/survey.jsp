@@ -2,7 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>Murach's Java Servlets and JSP</title>
+    <title>Chap 6 Ex2 Survey</title>
     <link rel="stylesheet" href="ch06_ex2_survey/styles/main.css" type="text/css"/>
 </head>
 
